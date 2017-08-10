@@ -1,0 +1,7 @@
+-dataset = foursquare.com
+	-client_id= VEFN5JX5UKUIMOT2FGLSRHPRR2PWT4HOHPIRKMPJM3RJ2IH2
+	-client_secret= RQHQ4PTONPZHMO4MFYGXWECA31IEQEVPALYJZ4AMIMHOQIEG
+	-place dataset=
+		https://api.foursquare.com/v2/venues/search?client_id&client_secret&v=20130815&near
+	-review/like of a place=
+		https://api.foursquare.com/v2/venues/:place_id?client_id=&client_secret&v=20130815

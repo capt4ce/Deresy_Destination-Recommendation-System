@@ -1,0 +1,2056 @@
+https://api.foursquare.com/v2/venues/search?client_id=VEFN5JX5UKUIMOT2FGLSRHPRR2PWT4HOHPIRKMPJM3RJ2IH2&client_secret=RQHQ4PTONPZHMO4MFYGXWECA31IEQEVPALYJZ4AMIMHOQIEG&v=20130815&near=yogyakarta&limit=50
+{
+   "meta":{
+      "code":200,
+      "requestId":"598aba3c9fb6b767ccd1bda5"
+   },
+   "response":{
+      "venues":[
+         {
+            "id":"4bf8a4215ec320a1a33189d3",
+            "name":"Parsley Bakery & Cake Shop",
+            "contact":{
+               "phone":"+62274520275",
+               "formattedPhone":"+62 274 520275",
+               "twitter":"parsleybakery"
+            },
+            "location":{
+               "address":"Jalan Magelang No. 5",
+               "lat":-7.78224009799321,
+               "lng":110.3605842590332,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.78224009799321,
+                     "lng":110.3605842590332
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jalan Magelang No. 5",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d16a941735",
+                  "name":"Bakery",
+                  "pluralName":"Bakeries",
+                  "shortName":"Bakery",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bakery_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":2574,
+               "usersCount":1165,
+               "tipCount":54
+            },
+            "url":"http:\/\/www.parsleybakery.com",
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4be92de288ed2d7f6ca6cc1d",
+            "name":"Kencana Art Photography",
+            "contact":{
+               "phone":"+62274513064",
+               "formattedPhone":"+62 274 513064",
+               "facebook":"58207059603",
+               "facebookUsername":"KencanaArtPhotography",
+               "facebookName":"Kencana Art Photography"
+            },
+            "location":{
+               "address":"Jalan Pangeran Diponegoro 106",
+               "crossStreet":"JL. Pangeran Diponegoro, 106",
+               "lat":-7.782808803783528,
+               "lng":110.36150425672531,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782808803783528,
+                     "lng":110.36150425672531
+                  }
+               ],
+               "postalCode":"55233",
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jalan Pangeran Diponegoro 106 (JL. Pangeran Diponegoro, 106)",
+                  "Yogyakarta",
+                  "DI Yogyakarta 55233",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4eb1bdde3b7b55596b4a7490",
+                  "name":"Photography Lab",
+                  "pluralName":"Photography Labs",
+                  "shortName":"Photography Lab",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/photographylab_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":true,
+            "stats":{
+               "checkinsCount":1204,
+               "usersCount":769,
+               "tipCount":7
+            },
+            "url":"http:\/\/www.kencanaphoto.com",
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "venuePage":{
+               "id":"52309306"
+            },
+            "storeId":"",
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4f0c32d1e4b0f72c81317e4d",
+            "name":"Optik Modern",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jalan Diponegoro",
+               "lat":-7.782899590115764,
+               "lng":110.36108612292477,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782899590115764,
+                     "lng":110.36108612292477
+                  }
+               ],
+               "cc":"ID",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jalan Diponegoro",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4d954afda243a5684865b473",
+                  "name":"Optical Shop",
+                  "pluralName":"Optical Shops",
+                  "shortName":"Optical",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/medical_opticalshop_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":88,
+               "usersCount":66,
+               "tipCount":2
+            },
+            "venueRatingBlacklisted":true,
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4bd2cc26a8b3a5937f83685f",
+            "name":"A. Takrib Putera (Supermarket Elektronik)",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl. Kyai Mojo",
+               "crossStreet":"Jl. Tentara Rakyat Mataram",
+               "lat":-7.7825802585586485,
+               "lng":110.35813808441162,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.7825802585586485,
+                     "lng":110.35813808441162
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. Kyai Mojo (Jl. Tentara Rakyat Mataram)",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d122951735",
+                  "name":"Electronics Store",
+                  "pluralName":"Electronics Stores",
+                  "shortName":"Electronics",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/technology_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":1554,
+               "usersCount":842,
+               "tipCount":42
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4cc2cd1842d1b60cd0ad1213",
+            "name":"Jl Diponegoro",
+            "contact":{
+
+            },
+            "location":{
+               "lat":-7.782869697333963,
+               "lng":110.36190067211207,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782869697333963,
+                     "lng":110.36190067211207
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":64,
+               "usersCount":51,
+               "tipCount":1
+            },
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4b8a3e0ff964a520636532e3",
+            "name":"Tugu Jogja",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl. Diponegoro - Jl. Sudirman",
+               "crossStreet":"Jl. AM Sangaji - Jl. Mangkubumi",
+               "lat":-7.783166729606504,
+               "lng":110.36693925742634,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.783166729606504,
+                     "lng":110.36693925742634
+                  }
+               ],
+               "postalCode":"55223",
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. Diponegoro - Jl. Sudirman (Jl. AM Sangaji - Jl. Mangkubumi)",
+                  "Yogyakarta",
+                  "DI Yogyakarta 55223",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d12d941735",
+                  "name":"Monument \/ Landmark",
+                  "pluralName":"Monuments \/ Landmarks",
+                  "shortName":"Landmark",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/government_monument_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":18380,
+               "usersCount":10775,
+               "tipCount":221
+            },
+            "venueRatingBlacklisted":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4c52ab179426c9286549c775",
+            "name":"Bobo Baby Shop",
+            "contact":{
+
+            },
+            "location":{
+               "lat":-7.78238752129122,
+               "lng":110.36138285146978,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.78238752129122,
+                     "lng":110.36138285146978
+                  }
+               ],
+               "cc":"ID",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d105951735",
+                  "name":"Kids Store",
+                  "pluralName":"Kids Stores",
+                  "shortName":"Kids Store",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/apparel_kids_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":75,
+               "usersCount":54,
+               "tipCount":0
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"525a329b498e426b6805f6ad",
+            "name":"Warung Gentong",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl. Asem Gede No.17",
+               "lat":-7.782802392681402,
+               "lng":110.36071957603708,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782802392681402,
+                     "lng":110.36071957603708
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. Asem Gede No.17",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4deefc054765f83613cdba6f",
+                  "name":"Indonesian Restaurant",
+                  "pluralName":"Indonesian Restaurants",
+                  "shortName":"Indonesian",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/indonesian_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":7,
+               "usersCount":7,
+               "tipCount":0
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"51e9dd5a498e071cba2be9a4",
+            "name":"Bank BPD DIY Cabang Utama",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Yogyakarta",
+               "lat":-7.7828301876789725,
+               "lng":110.36092903138274,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.7828301876789725,
+                     "lng":110.36092903138274
+                  }
+               ],
+               "cc":"ID",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d124941735",
+                  "name":"Office",
+                  "pluralName":"Offices",
+                  "shortName":"Office",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":10,
+               "usersCount":9,
+               "tipCount":0
+            },
+            "venueRatingBlacklisted":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5498dad8498ece50b136c791",
+            "name":"Bubur Yoyong",
+            "contact":{
+
+            },
+            "location":{
+               "lat":-7.7826029,
+               "lng":110.3607855,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.7826029,
+                     "lng":110.3607855
+                  }
+               ],
+               "cc":"ID",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":1,
+               "usersCount":1,
+               "tipCount":0
+            },
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"53907a23498eb0ad507fd099",
+            "name":"Amanda a truly brownies taste",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl diponegoro no 38 jogjakarta",
+               "lat":-7.782805940063686,
+               "lng":110.36099884984239,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782805940063686,
+                     "lng":110.36099884984239
+                  }
+               ],
+               "cc":"ID",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl diponegoro no 38 jogjakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d16a941735",
+                  "name":"Bakery",
+                  "pluralName":"Bakeries",
+                  "shortName":"Bakery",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bakery_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":15,
+               "usersCount":14,
+               "tipCount":0
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4c47bb120f5aa593411a7f76",
+            "name":"Pasar Pingit",
+            "contact":{
+
+            },
+            "location":{
+               "crossStreet":"Jl.Kyai Mojo",
+               "lat":-7.783024368562652,
+               "lng":110.35892175304411,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.783024368562652,
+                     "lng":110.35892175304411
+                  }
+               ],
+               "cc":"ID",
+               "city":"Gamping",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Gamping",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1ff941735",
+                  "name":"Miscellaneous Shop",
+                  "pluralName":"Miscellaneous Shops",
+                  "shortName":"Shop",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/default_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":181,
+               "usersCount":104,
+               "tipCount":2
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"50471b94e4b0497c33da7b2e",
+            "name":"Nusa Santana Prima",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl. Diponegoro 116",
+               "crossStreet":"Diponegoro",
+               "lat":-7.782872052378915,
+               "lng":110.3610337590743,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782872052378915,
+                     "lng":110.3610337590743
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. Diponegoro 116 (Diponegoro)",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1f6931735",
+                  "name":"General Travel",
+                  "pluralName":"General Travel",
+                  "shortName":"Travel",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/default_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":39,
+               "usersCount":28,
+               "tipCount":0
+            },
+            "venueRatingBlacklisted":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"52e3d5c1498e0f114558ba3a",
+            "name":"Pacific Hall",
+            "contact":{
+
+            },
+            "location":{
+               "lat":-7.782875330698254,
+               "lng":110.36076612166512,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782875330698254,
+                     "lng":110.36076612166512
+                  }
+               ],
+               "cc":"ID",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":2,
+               "usersCount":2,
+               "tipCount":0
+            },
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4c137771a1010f47cc9f4a18",
+            "name":"Kiddo Baby Shop",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jln. Poncowinatan no. 83",
+               "crossStreet":"Jln. Magelang",
+               "lat":-7.7822613580366395,
+               "lng":110.36120653152466,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.7822613580366395,
+                     "lng":110.36120653152466
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jln. Poncowinatan no. 83 (Jln. Magelang)",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d105951735",
+                  "name":"Kids Store",
+                  "pluralName":"Kids Stores",
+                  "shortName":"Kids Store",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/apparel_kids_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":172,
+               "usersCount":112,
+               "tipCount":3
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4c246445a852c928bb13e36c",
+            "name":"Nusa Santana Prima T&T",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl. P. Diponegoro",
+               "lat":-7.782714655667549,
+               "lng":110.3610337590743,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782714655667549,
+                     "lng":110.3610337590743
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. P. Diponegoro",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1f6931735",
+                  "name":"General Travel",
+                  "pluralName":"General Travel",
+                  "shortName":"Travel",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/default_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":57,
+               "usersCount":39,
+               "tipCount":0
+            },
+            "venueRatingBlacklisted":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"55dc674f498ed8ff9208088d",
+            "name":"Tabea Shop",
+            "contact":{
+
+            },
+            "location":{
+               "lat":-7.7826102,
+               "lng":110.3607061,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.7826102,
+                     "lng":110.3607061
+                  }
+               ],
+               "cc":"ID",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":1,
+               "usersCount":1,
+               "tipCount":0
+            },
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4e150f94d22d026fa76b8be7",
+            "name":"Indo Elektrik",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jalan Kyai Mojo no.20",
+               "lat":-7.782890776351187,
+               "lng":110.36055084815612,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782890776351187,
+                     "lng":110.36055084815612
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jalan Kyai Mojo no.20",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d112951735",
+                  "name":"Hardware Store",
+                  "pluralName":"Hardware Stores",
+                  "shortName":"Hardware",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/hardware_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":34,
+               "usersCount":3,
+               "tipCount":0
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"5026a28fe4b092aac5ef78ea",
+            "name":"24 Jam Dim Sum Grand Quality Hotel",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jalan Laksda Adisutjipto",
+               "lat":-7.782647702273848,
+               "lng":110.36099884984239,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782647702273848,
+                     "lng":110.36099884984239
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jalan Laksda Adisutjipto",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1f5931735",
+                  "name":"Dim Sum Restaurant",
+                  "pluralName":"Dim Sum Restaurants",
+                  "shortName":"Dim Sum",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/dimsum_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":15,
+               "usersCount":13,
+               "tipCount":0
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4ca495947f84224be175ce58",
+            "name":"Zest Froyo, Ice Cream, and Coffee",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl. Sindunegaran 6 (Selatan SD Tarakanita Bumijo)",
+               "lat":-7.78304174,
+               "lng":110.360705,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.78304174,
+                     "lng":110.360705
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. Sindunegaran 6 (Selatan SD Tarakanita Bumijo)",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1c9941735",
+                  "name":"Ice Cream Shop",
+                  "pluralName":"Ice Cream Shops",
+                  "shortName":"Ice Cream",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/icecream_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":161,
+               "usersCount":104,
+               "tipCount":3
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4c45adbe36d6a59340296ca8",
+            "name":"Apotik Rajawali",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl poncowinatan",
+               "crossStreet":"Jl poncowinatan",
+               "lat":-7.782089640449636,
+               "lng":110.36122575987464,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782089640449636,
+                     "lng":110.36122575987464
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl poncowinatan (Jl poncowinatan)",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d10f951735",
+                  "name":"Pharmacy",
+                  "pluralName":"Pharmacies",
+                  "shortName":"Pharmacy",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/pharmacy_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":157,
+               "usersCount":101,
+               "tipCount":3
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4bfc71a2b5cd2d7f9fa031fb",
+            "name":"Bank Bukopin Jl. Diponegoro 99",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl. P.Diponegoro 99",
+               "crossStreet":"Jl. P. Diponegoro 99",
+               "lat":-7.7830286856710496,
+               "lng":110.36162139801986,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.7830286856710496,
+                     "lng":110.36162139801986
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. P.Diponegoro 99 (Jl. P. Diponegoro 99)",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d10a951735",
+                  "name":"Bank",
+                  "pluralName":"Banks",
+                  "shortName":"Bank",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/financial_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":143,
+               "usersCount":78,
+               "tipCount":2
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4f10416ce4b0253d4b686e47",
+            "name":"Circle K",
+            "contact":{
+               "twitter":"circlekindo"
+            },
+            "location":{
+               "address":"Jl. Diponegoro",
+               "lat":-7.782903745164186,
+               "lng":110.3611035775423,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782903745164186,
+                     "lng":110.3611035775423
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. Diponegoro",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4d954b0ea243a5684a65b473",
+                  "name":"Convenience Store",
+                  "pluralName":"Convenience Stores",
+                  "shortName":"Convenience Store",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/conveniencestore_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":2,
+               "usersCount":2,
+               "tipCount":0
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+               {
+                  "id":"556d1914aceaff43eb0a123a"
+               }
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"521743b72fc6e883da48105d",
+            "name":"JIC Indonesia, Yk.",
+            "contact":{
+               "phone":"+62274375775",
+               "formattedPhone":"+62 274 375775",
+               "twitter":"jicindonesia"
+            },
+            "location":{
+               "address":"Jl. Gambiran No. 25 Umbul Harjo",
+               "lat":-7.78278,
+               "lng":110.36083,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.78278,
+                     "lng":110.36083
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. Gambiran No. 25 Umbul Harjo",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1ab941735",
+                  "name":"Student Center",
+                  "pluralName":"Student Centers",
+                  "shortName":"Student Center",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/education\/studentcenter_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":3,
+               "usersCount":2,
+               "tipCount":0
+            },
+            "venueRatingBlacklisted":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4c57ac5530d82d7f1b7bda62",
+            "name":"Toko Sari Jaya",
+            "contact":{
+
+            },
+            "location":{
+               "lat":-7.782436778147642,
+               "lng":110.36079521268391,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782436778147642,
+                     "lng":110.36079521268391
+                  }
+               ],
+               "cc":"ID",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1f6941735",
+                  "name":"Department Store",
+                  "pluralName":"Department Stores",
+                  "shortName":"Department Store",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/departmentstore_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":18,
+               "usersCount":14,
+               "tipCount":0
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4cfb335dd8468cfa1c5ff36b",
+            "name":"Sintawang Seafood Restaurant",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl Magelang 9",
+               "lat":-7.781900832752659,
+               "lng":110.36059739377521,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.781900832752659,
+                     "lng":110.36059739377521
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl Magelang 9",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d145941735",
+                  "name":"Chinese Restaurant",
+                  "pluralName":"Chinese Restaurants",
+                  "shortName":"Chinese",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/asian_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":389,
+               "usersCount":309,
+               "tipCount":5
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4e6f24fb62e1d475e20e00a2",
+            "name":"Donamici",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jalan Diponegoro",
+               "lat":-7.782856697462486,
+               "lng":110.36116757780948,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782856697462486,
+                     "lng":110.36116757780948
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jalan Diponegoro",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d107951735",
+                  "name":"Shoe Store",
+                  "pluralName":"Shoe Stores",
+                  "shortName":"Shoes",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/apparel_shoestore_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":62,
+               "usersCount":28,
+               "tipCount":0
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4d92c101b189721e3dd9282a",
+            "name":"Foto Copy Rejeki",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jalan Bumijo",
+               "lat":-7.7828354344712745,
+               "lng":110.36106285010196,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.7828354344712745,
+                     "lng":110.36106285010196
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jalan Bumijo",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d121951735",
+                  "name":"Paper \/ Office Supplies Store",
+                  "pluralName":"Paper \/ Office Supplies Stores",
+                  "shortName":"Office Supplies",
+                  "icon":{
+                     "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/papergoods_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":8,
+               "usersCount":7,
+               "tipCount":0
+            },
+            "allowMenuUrlEdit":true,
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"518f5d9a498e12df25d748db",
+            "name":"garden days",
+            "contact":{
+
+            },
+            "location":{
+               "lat":-7.782544,
+               "lng":110.360774,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.782544,
+                     "lng":110.360774
+                  }
+               ],
+               "cc":"ID",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":1,
+               "usersCount":1,
+               "tipCount":0
+            },
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         },
+         {
+            "id":"4cecd6d67db3224b77971e2e",
+            "name":"Ruang Rapat Kecil Bank Bukopin",
+            "contact":{
+
+            },
+            "location":{
+               "address":"Jl. Diponegoro 99",
+               "crossStreet":"Pingit",
+               "lat":-7.783059686124779,
+               "lng":110.36099884984239,
+               "labeledLatLngs":[
+                  {
+                     "label":"display",
+                     "lat":-7.783059686124779,
+                     "lng":110.36099884984239
+                  }
+               ],
+               "cc":"ID",
+               "city":"Yogyakarta",
+               "state":"DI Yogyakarta",
+               "country":"Indonesia",
+               "formattedAddress":[
+                  "Jl. Diponegoro 99 (Pingit)",
+                  "Yogyakarta",
+                  "DI Yogyakarta",
+                  "Indonesia"
+               ]
+            },
+            "categories":[
+
+            ],
+            "verified":false,
+            "stats":{
+               "checkinsCount":5,
+               "usersCount":2,
+               "tipCount":0
+            },
+            "beenHere":{
+               "lastCheckinExpiredAt":0
+            },
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "summary":"Nobody here",
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1502263868",
+            "venueChains":[
+
+            ],
+            "hasPerk":false
+         }
+      ],
+      "confident":false,
+      "geocode":{
+         "what":"",
+         "where":"yogyakarta",
+         "feature":{
+            "cc":"ID",
+            "name":"Yogyakarta",
+            "displayName":"Yogyakarta, DI Yogyakarta, Indonesia",
+            "matchedName":"Yogyakarta, DI Yogyakarta, Indonesia",
+            "highlightedName":"<b>Yogyakarta<\/b>, DI Yogyakarta, Indonesia",
+            "woeType":7,
+            "slug":"yogyakarta-indonesia",
+            "id":"geonameid:1621177",
+            "longId":"72057594039549113",
+            "geometry":{
+               "center":{
+                  "lat":-7.78278,
+                  "lng":110.36083
+               },
+               "bounds":{
+                  "ne":{
+                     "lat":-7.5873211638036935,
+                     "lng":110.63590317827304
+                  },
+                  "sw":{
+                     "lat":-7.986682925535817,
+                     "lng":110.0327385926545
+                  }
+               }
+            }
+         },
+         "parents":[
+
+         ]
+      }
+   }
+}
